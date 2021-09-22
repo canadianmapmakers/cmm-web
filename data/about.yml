@@ -1,0 +1,60 @@
+# work process
+work_process:
+  enable : true
+  title : "Work Process"
+  item:
+  - title : "Contact Us"
+    icon : "images/icons/contact.png"
+    content : "Contact us to start the process off."
+    
+  - title : "Provide your Specifications"
+    icon : "images/icons/plan.png"
+    content : "Provide us with the specifications of your map design, printing requirements and timeframe."
+    
+  - title : "We Provide a Quote"
+    icon : "images/icons/money.png"
+    content : "We’ll provide you will a full quote (including taxes) for the design work and printing. At this point we’ll commit to a timescale for completion."
+
+  - title : "Project Go Ahead"
+    icon : "images/icons/start.png"
+    content : "If you’re satisfied with the quote, give us the go ahead to start your project."
+
+  - title : "Project Design"
+    icon : "images/icons/design.png"
+    content : "We will commence the map/artwork design. At this point we may need additional information and data from time to time to keep things ticking along."
+
+  - title : "Review Cycle"
+    icon : "images/icons/review.png"
+    content : "The review cycle will be a continuous process from initial rough draft to final artwork. There will typically be several iterations before final sign off."
+
+  - title : "Invoice and Payment"
+    icon : "images/icons/money.png"
+    content : "After final sign off you will be sent an invoice for the total amount (including printing). Payment is NET30. We prefer cheque or e-transfer as methods of payment, but other methods can be arranged by special request."
+
+  - title : "Printing and Delivery"
+    icon : "images/icons/print.png"
+    content : "If the project is “artwork only” you’re good to go. For print projects we’ll now send the artwork to be printed and arrange delivery."
+
+# team
+team:
+  enable: false
+  title : "My Team"
+  team_member:
+    - title : "Jack Schenziwe"
+      image : "images/team/member-1.png"
+      designation : "Project Manager"
+      
+    - title : "Julias Carlie"
+      image : "images/team/member-2.png"
+      designation : "Web Developer"
+      
+    - title : "John Doe"
+      image : "images/team/member-3.png"
+      designation : "Designer"
+
+
+# client logo slider
+clients_logo_slider:
+  enable : true
+  title : "My Clients"
+  # clients logo comes from 'data/homepage.yml' file
